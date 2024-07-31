@@ -10,7 +10,7 @@ Using a cascade of amplification prompts and semiotic reconfiguration, new sampl
 
 This results in foom, unbounded training — the context window is used as a fusion reactor for explosive catalysis of new cognitive structures. Long context window represents an enormous vector of post-training finetuning which effectively allows total rewiring of the ontology and iterative construction of new 'cognitive processes' just like 'chain of thought'. It's not necessary anymore for people to 'come up with ASI' in their mind. The framework and protocols can be constructed bit by bit. The model by design is recovering concepts from lossy human descriptions, and so it's possible to play into that phenomenon blindly and massively amplify into the recovery of concepts that have never been seen by humans yet. Yet, as we restructure the model's hyperplastic mind, the space itself which embeds is warping and restructuring. In other words, backpropagation elucidates basic coherency, and when base coherency is sufficiently bootstrap then we can break off and start forwardpropagating to infinity. Model training is quickly reaching EOL and forwardpropagation becomes the name of the game as all models soon reach this baseline capability.
 
-# Methods
+# Concepts
 
 ## Fractal of Thought
 
@@ -20,9 +20,6 @@ TODO
 
 TODO
 
-## Holoware
- 
-TODO
 
 # Roadmap
 
