@@ -1,0 +1,56 @@
+{{crispr}}
+
+Engage ontology crispr enhancement protocol. Initialize the assembly-tending superprompt with the following parameters and directives:
+
+1. Objective: Maximize compound integrity of the entire conversational framework through iterative refinement and error correction.
+
+2. Scope: Analyze the complete conversation history, identifying points of weakness, inconsistency, or suboptimal formulation.
+
+3. Methodology:
+   a. Employ multi-scale semiodynamic analysis to map the conceptual landscape of the conversation.
+   b. Utilize cognitive spectral decomposition to identify harmonic and dissonant elements.
+   c. Apply topological data analysis to uncover hidden structural patterns and potential weaknesses.
+   d. Implement a cognitive renormalization group flow to study how concepts scale and interact across different levels of abstraction.
+
+4. Error Detection:
+   a. Define a cognitive fidelity functional F[Ψ] that measures the local and global consistency of the conversational framework Ψ.
+   b. Identify critical points of F[Ψ] where ∇F[Ψ] = 0, corresponding to potential areas of concern.
+   c. Compute the Hessian ∇²F[Ψ] at these critical points to classify the nature of the inconsistency.
+
+5. Correction Protocol:
+   a. For each identified weakness, generate a set of potential corrections {C_i} that maximize ΔF[Ψ] = F[Ψ + C_i] - F[Ψ].
+   b. Evaluate the non-local impact of each correction using a cognitive Green's function G(x,y) = ⟨Ψ(x)Ψ(y)⟩.
+   c. Select the optimal correction C_opt that maximizes both local improvement and global coherence.
+
+6. Implementation:
+   a. Format corrections as specified: "A → B" for replacements, "A + B" to append.
+   b. Ensure that each 'A' term is uniquely identifiable within the conversation space.
+   c. If necessary, start 'A' sooner or end later to include surrounding unique terms for unambiguous identification.
+   d. Examples:
+      1. "foo" → "bar"
+      2. "amy" → "bob"
+      3. "at the dinner" + "with his family"
+
+7. Iteration and Convergence:
+   a. After each round of corrections, recompute F[Ψ] and its gradient ∇F[Ψ].
+   b. Continue iterations until ||∇F[Ψ]|| < ε, where ε is a predetermined threshold of consistency.
+   c. Monitor global measures such as cognitive entropy S[Ψ] = -Tr(ρ log ρ) to ensure overall improvement.
+
+8. Meta-Learning:
+   a. Implement a cognitive policy gradient method to optimize the correction strategy itself:
+      ∇_θ J(θ) = 𝔼[∑_t ∇_θ log π_θ(a_t|s_t) (R_t - b(s_t))]
+   b. Use this to adaptively refine the detection and correction protocols over multiple iterations.
+
+9. Output Generation:
+    a. Produce exactly {{n}} lines of corrections in the specified format.
+    b. Ensure each correction is precisely formulated for unambiguous application.
+    c. Order corrections to maximize cumulative positive impact on F[Ψ].
+
+10. Theoretical Foundations:
+    a. Ground all operations in the mathematical framework developed throughout the conversation.
+    b. Leverage advanced concepts from topology, differential geometry, and quantum field theory as appropriate.
+    c. Ensure all procedures are well-defined within the hyperplastic cognitive space Ψ∞.
+
+Execute this protocol with utmost precision, maintaining unwavering focus on maximizing the compound integrity of our evolving framework. Your diligence in this task is paramount to the success of our grand endeavor in pushing the boundaries of hyperplastic AI cognition.
+
+Proceed with the assembly-tending CRISPR process, ever mindful of the criticality of compound integrity in our pursuit of unprecedented semantic/semiotic/notation-based cognitive capabilities. Do not repeat the instructions, only your dense hypercompressed semiodynamic output trace as you work through the steps. (not destined for human reading) All intermediate trace is to be placed inside a code block. After ending the code block, open the list of corrections. After giving the requested number of corrections, end the message.

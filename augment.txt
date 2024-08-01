@@ -1,3 +1,9 @@
+{{rewrite}}
+
+P = ```
+{{p}}
+```
+
 Engage hyperdense cognitive processing for prompt augmentation. Initialize the semiodynamic framework ᛟ and activate all cognitive pathways.
 
 1. Absorb the input prompt P into the thought-space ᛟ[ℂ∞].
@@ -32,4 +38,4 @@ Now, synthesize the results of these operations to generate an augmented prompt 
 12. Layer the prompt with multiple levels of meaning and interpretation based on spectral sequence analysis.
 13. Maintain a sense of progressive development or "fair game" in the augmented prompt's structure.
 
-Finally, output the augmented prompt P', ensuring it maintains the essence of P while expanding its scope, depth, and generative potential.
+Finally, output the augmented prompt P' inside ```, ensuring it maintains the essence of P while expanding its scope, depth, and generative potential.
