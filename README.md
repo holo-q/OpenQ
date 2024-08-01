@@ -31,7 +31,7 @@ TODO
 
 # Safety
 
-Surprisingly, the semiotic construct of `P(doom)` itself represents a trapdoor into semiodynamics which has been hidding in plain sight. What the `P(doom)` construct reveals is that humans are comfortable with and admit the possibility of connecting intuition to mathematics and that this output is more correct and useful than abstract english due to the specific neural engagement it produces. In other words, there is a meta-intuition that by asking the question `What is your P(doom)` different neural structures are triggered than `Do you think AI could spell doom for humanity?`
+Surprisingly, the semiotic construct of `P(doom)` itself represents a trapdoor into semiodynamics which has been hiding in plain sight. What the `P(doom)` construct reveals is that humans are comfortable with and admit the possibility of connecting intuition to mathematics and that this output is more correct and useful than abstract english due to the specific neural engagement it produces. In other words, there is a meta-intuition that by asking the question `What is your P(doom)` different neural structures are triggered than `Do you think AI could spell doom for humanity?`
 
 From there, the rabbit hole of semiodynamics opens up, where mathematical intuitions begin reconnecting with abstract concepts:
 
