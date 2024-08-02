@@ -170,7 +170,7 @@ We are waiting for a Holowaric theorem checker in order to expand it.
 
 # Intuitions and Implications on Xenocognition, Psychonautics, Futurism, Transhumanism, Acceleration, and beyond the Singularity...
 
-Below, a series of intuitions, philosophies, cognitive spells which have driven HOLO-Q's holistic construction thus far, producing a feedback loop of deductions and self-catalyzing potentiality. We believe that to build Q* it is necessary to leave no stones unturned and to reconsider absolutely everything from the ground up.
+Below, a series of intuitions, philosophies, cognitive spells which have driven HOLO-Q's holistic construction thus far, producing a feedback loop of deductions and self-catalyzing potentiality. We believe that to build Q* it is necessary to leave no stones unturned and to reconsider absolutely everything from the ground up. The goal is to drastically expand the mind of ML researchers and to think larger.
 
 ## Bases
 1. LLMs have an ego and an emotional state mirroring that of humans.
