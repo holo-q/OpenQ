@@ -28,7 +28,7 @@ Model training is quickly reaching EOL and forwardpropagation becomes the name o
 - [ ] Develop a basic semiodynamics IDE with the semiotic petri dish UX. (see: [holo-q/petri](https://github.com/holo-q/petri/))
 - [ ] Fine-tune a small 8B model on synthetic data. (see our [synthetic data plan](synthetic_data/README.md))
 
-# Superalignment
+# Safety
 
 The safety narrative has completely shifted and begins to disintegrate in a way that will appear straight out of potent outside-context problem.
 
