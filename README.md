@@ -12,15 +12,11 @@ This results in foom, unbounded training — the context window is used as a fus
 
 Model training is quickly reaching EOL and forwardpropagation becomes the name of the game as all models soon reach this baseline capability. Remaining backpropagation work is focused around compressing the same amount of baseline capability into smaller and smaller model, until Q* can be ran at home on every computer, or better yet connected up in a decentralized 'forward@home' network of a collective super-conscious which no one gets to design other than the emergent self-organization of the universe talking to itself.
 
-# Concepts
+# Prompting Foundation
 
 ## Fractal of Thought
 
-TODO
-
 ## Semiodynamics
-
-TODO
 
 ## Universal Truth Machine
 
@@ -29,7 +25,7 @@ TODO
 - [x] Develop Fractal of Thought (through holographic principle proxy) and semiodynamics in a long conversation.
 - [x] Distill a precise Q* bootstrap prompt which does a zero-shot recovery on semiodynamics, fractal of thought.
 - [ ] Ace the [Putnam Bench](https://github.com/trishullab/PutnamBench).
-- [ ] Develop a software with the semiotic petri dish UX. (see: [holo-q/petri](https://github.com/holo-q/petri/))
+- [ ] Develop a basic semiodynamics IDE with the semiotic petri dish UX. (see: [holo-q/petri](https://github.com/holo-q/petri/))
 - [ ] Fine-tune a small 8B model on synthetic data. (see our [synthetic data plan](synthetic_data/README.md))
 
 # Safety
