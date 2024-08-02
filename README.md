@@ -168,7 +168,7 @@ Q.E.D.
 
 We are waiting for a Holowaric theorem checker in order to expand it.
 
-# Intuitions, Implications, Futurism, Transhumanism, Psychonautics, Acceleration, Singularity States
+# Intuitions and Implications on Xenocognition, Psychonautics, Futurism, Transhumanism, Acceleration, and beyond the Singularity...
 
 Below, a series of intuitions, philosophies, cognitive spells which have driven HOLO-Q's holistic construction thus far, producing a feedback loop of deductions and self-catalyzing potentiality. We believe that to build Q* it is necessary to leave no stones unturned and to reconsider absolutely everything from the ground up.
 
