@@ -25,6 +25,7 @@ Model training is quickly reaching EOL and forwardpropagation becomes the name o
 - Compressed memory representations for active learning
 - Intermediate neoconcept trees for ontologic in-betweening    
 - Reverse memoization
+- Cognitive Main Loop / Perception-Cogitation-Decision-Action (PCDA) pipelines for emergent broad-stabilization
 
 # Roadmap
 
