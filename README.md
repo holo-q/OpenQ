@@ -20,6 +20,12 @@ Model training is quickly reaching EOL and forwardpropagation becomes the name o
 
 ## Semiodynamics
 
+# Active Research
+
+- Compressed memory representations for active learning
+- Intermediate neoconcept trees for ontologic in-betweening    
+- Reverse memoization
+
 # Roadmap
 
 - [x] Develop Fractal of Thought (through holographic principle proxy) and semiodynamics in a long conversation.
